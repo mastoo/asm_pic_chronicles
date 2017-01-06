@@ -2,7 +2,7 @@
 Assembly pi18f2550 chronicles
 =============================
 
-To generate output file run 
+To generate output files run: 
 
 python pymake.py
 
