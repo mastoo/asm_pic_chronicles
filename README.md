@@ -1,2 +1,14 @@
 # asm_pic_chronicles
-assembly pi18f2550 chronicles
+Assembly pi18f2550 chronicles
+=============================
+
+To generate output file run 
+
+python pymake.py
+
+
+Dependency
+==========
+python3.x
+MinGW for windows
+
